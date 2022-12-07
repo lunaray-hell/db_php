@@ -10,7 +10,7 @@ try{
     $conn = new PDO($dns, $user, $password, $options);
 
     if ($conn) {
-        echo 'Success connect!' . '<br>';
+        // echo 'Success connect!' . '<br>';
     }
 
 }catch (PDOExeption $e) {

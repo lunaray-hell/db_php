@@ -23,7 +23,7 @@
          } 
     ?>
       <p>
-           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore fuga eos at fugit ipsam soluta, ut praesentium! Expedita quasi delectus dicta, facere maxime praesentium totam perferendis iure quidem, architecto nobis?
+           <!-- Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore fuga eos at fugit ipsam soluta, ut praesentium! Expedita quasi delectus dicta, facere maxime praesentium totam perferendis iure quidem, architecto nobis? -->
       </p>
 </body>
 </html>
